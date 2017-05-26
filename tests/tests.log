@@ -1,0 +1,94 @@
+DEBUG tests/comparator_tests.c:35: ----- RUNNING ./tests/comparator_tests
+DEBUG tests/comparator_tests.c:30: 
+----- test_int
+DEBUG tests/darray_tests.c:142: ----- RUNNING ./tests/darray_tests
+DEBUG tests/darray_tests.c:130: 
+----- test_create
+DEBUG tests/darray_tests.c:131: 
+----- test_new
+DEBUG tests/darray_tests.c:132: 
+----- test_set
+DEBUG tests/darray_tests.c:133: 
+----- test_get
+DEBUG tests/darray_tests.c:134: 
+----- test_remove
+DEBUG tests/darray_tests.c:135: 
+----- test_expand_contract
+DEBUG tests/darray_tests.c:136: 
+----- test_push_pop
+DEBUG tests/darray_tests.c:137: 
+----- test_destroy
+DEBUG tests/list_algorithms_tests.c:435: ----- RUNNING ./tests/list_algorithms_tests
+DEBUG tests/list_algorithms_tests.c:417: 
+----- test_create
+DEBUG tests/list_algorithms_tests.c:418: 
+----- test_push
+DEBUG tests/list_algorithms_tests.c:419: 
+----- test_clear_destroy
+DEBUG tests/list_algorithms_tests.c:422: 
+----- test_swap
+DEBUG tests/list_algorithms_tests.c:423: 
+----- test_bubble_sort
+DEBUG tests/list_algorithms_tests.c:424: 
+----- test_bubble_sort_empty
+DEBUG tests/list_algorithms_tests.c:426: 
+----- test_split_lists
+DEBUG tests/list_algorithms_tests.c:427: 
+----- test_merge_lists
+DEBUG tests/list_algorithms_tests.c:428: 
+----- test_merge_lists_single_el
+DEBUG tests/list_algorithms_tests.c:429: 
+----- test_merge_sort
+DEBUG tests/list_algorithms_tests.c:430: 
+----- test_merge_sort_empty
+DEBUG tests/list_tests.c:101: ----- RUNNING ./tests/list_tests
+DEBUG tests/list_tests.c:91: 
+----- test_create
+DEBUG tests/list_tests.c:92: 
+----- test_push_pop
+DEBUG tests/list_tests.c:93: 
+----- test_unshift
+DEBUG tests/list_tests.c:94: 
+----- test_remove
+DEBUG tests/list_tests.c:95: 
+----- test_shift
+DEBUG tests/list_tests.c:96: 
+----- test_clear_destroy
+DEBUG tests/radixmap_tests.c:143: ----- RUNNING ./tests/radixmap_tests
+DEBUG tests/radixmap_tests.c:138: 
+----- test_operations
+DEBUG tests/radixmap_tests.c:85: Out of bounds check OK!
+DEBUG tests/darray_tests.c:142: ----- RUNNING ./tests/darray_tests
+DEBUG tests/darray_tests.c:130: 
+----- test_create
+DEBUG tests/darray_tests.c:131: 
+----- test_new
+DEBUG tests/darray_tests.c:132: 
+----- test_set
+DEBUG tests/darray_tests.c:133: 
+----- test_get
+DEBUG tests/darray_tests.c:134: 
+----- test_remove
+DEBUG tests/darray_tests.c:135: 
+----- test_expand_contract
+DEBUG tests/darray_tests.c:136: 
+----- test_push_pop
+DEBUG tests/darray_tests.c:137: 
+----- test_destroy
+DEBUG tests/darray_tests.c:142: ----- RUNNING ./tests/darray_tests
+DEBUG tests/darray_tests.c:130: 
+----- test_create
+DEBUG tests/darray_tests.c:131: 
+----- test_new
+DEBUG tests/darray_tests.c:132: 
+----- test_set
+DEBUG tests/darray_tests.c:133: 
+----- test_get
+DEBUG tests/darray_tests.c:134: 
+----- test_remove
+DEBUG tests/darray_tests.c:135: 
+----- test_expand_contract
+DEBUG tests/darray_tests.c:136: 
+----- test_push_pop
+DEBUG tests/darray_tests.c:137: 
+----- test_destroy
